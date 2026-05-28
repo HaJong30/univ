@@ -22,11 +22,6 @@ checkpoints/
 *.hdf5
 *.h5
 
-# Output / plots
-*.png
-*.jpg
-*.jpeg
-
 # IDE
 .vscode/
 .idea/
